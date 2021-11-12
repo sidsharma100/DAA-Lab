@@ -1,1 +1,0 @@
-Maximum spanning weight : 59
